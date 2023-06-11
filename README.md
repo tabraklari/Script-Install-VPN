@@ -59,6 +59,7 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/givpn/aio/master/xray)"
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/givpn/aio/master/xray)"
 ```
+
 # Telegram
 [![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
 [![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/givpn_grup)
@@ -70,3 +71,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/givpn/aio/master/xray)"
 
 # LICENSE
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+![profile views](https://komarev.com/ghpvc/?username=givpn11&color=blue)
