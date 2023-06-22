@@ -35,6 +35,7 @@ clear
 echo -e "${BB}————————————————————————————————————————————————————————${NC}"
 echo -e "               ${GB}----- [ Xray Script ] -----${NC}              "
 echo -e "${BB}————————————————————————————————————————————————————————${NC}"
+echo -e " ${CB}Public IP${NC}        ${GB}: $MYIP"
 echo -e " ${CB}Service Provider${NC} ${GB}: $ISP"
 echo -e " ${CB}Timezone${NC}         ${GB}: $WKT${NC}"
 echo -e " ${CB}City${NC}             ${GB}: $CITY${NC}"
