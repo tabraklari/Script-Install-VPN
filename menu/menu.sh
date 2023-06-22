@@ -94,6 +94,6 @@ echo ""
 menu ;;
 15) clear ; xraymod ;;
 16) clear ; xrayofficial ;;
-x) exit ;;
+x) clear ; exit ;;
 *) echo -e "${RB}salah input${NC}" ; sleep 1 ; menu ;;
 esac
