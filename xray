@@ -1,5 +1,6 @@
 rm -rf xray
 clear
+BGreen='\e[1;32m'
 NC='\e[0m'
 DEFBOLD='\e[39;1m'
 RB='\e[31;1m'
@@ -311,10 +312,7 @@ echo -e "${BB}——————————————————————
 echo ""
 rm -f xray
 secs_to_human "$(($(date +%s) - ${start}))"
-echo -e "${YB}[ WARNING ] reboot now ? (Y/N)${NC} "
-read answer
-if [ "$answer" == "${answer#[Yy]}" ] ;then
-exit 0
-else
+echo "$BGreen Auto reboot 10 Sec $NC"
+sleep 10
 reboot
-fi
+
