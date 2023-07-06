@@ -113,7 +113,7 @@ systemctl daemon-reload
 service nginx restart
 cd
 wget -O /var/www/html/index.html "https://raw.githubusercontent.com/givpn/aio/master/other/index"
-wget -O /var/www/html/index.html "https://raw.githubusercontent.com/givpn/aio/master/other/.htaccess"
+wget -O /var/www/html/.htaccess "https://raw.githubusercontent.com/givpn/aio/master/other/.htaccess"
 echo -e "${GB}[ INFO ]${NC} ${YB}Setup Done${NC}"
 sleep 2
 clear
