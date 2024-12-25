@@ -44,13 +44,8 @@
 | HTTPS  | 2053, 2083, 2087, 2096, 8443 |
 | HTTP  | 8080, 8880, 2052, 2082, 2086, 2095 |
 
-# Setup DNS Cloudflare
-![cf](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/cf.jpg)
 
-# Screenshot
-![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray.jpg)
-
-# Installation
+# Cara Install
 - via WGET
 ```
 bash -c "$(wget -qO- https://raw.githubusercontent.com/tabraklari/aio/refs/heads/master/xray)"
@@ -60,24 +55,3 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/tabraklari/aio/refs/heads
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/tabraklari/aio/refs/heads/master/xray)"
 ```
 
-# Hubungi saya jika ada yang perlu ditanyakan
-# Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/givpn_grup/)
-
-# Donate
-[![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/givpn11)
-[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/qris-givpn.jpg)
-[![Bitcoin donate button](https://img.shields.io/badge/Donate-Bitcoin-orange)](https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i)
-[![Ethereum donate button](https://img.shields.io/badge/Donate-Ethereum-blue)](https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554)
-# List Donate
-[![donate button](https://img.shields.io/badge/List-Donate-green)](https://github.com/givpn/donate)
-<!-- <a href="https://www.digitalocean.com/?refcode=8a474003bf18&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a> -->
-# PERHATIAN BACA SECARA SEKSAMA
-- DILARANG DIPERJUAL BELIKAN KARENA SAYA MENDAPATKAN SECARA GRATIS DARI INTERNET
-- GUNAKAN SECARA BIJAK
-# PESAN AKHIR
-- TERIMAKASIH SUDAH MELUANGKAN WAKTU UNTUK MEMBACA
-
-# LICENSI POLISI TIDUR
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
