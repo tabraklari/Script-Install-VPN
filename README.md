@@ -1,10 +1,8 @@
-# aio
-- `Update !!! Add DNS Setting`
 - `Note !!! for multipath please change to Xray-core mod in menu script`
 # Required
 - DOMAIN (MUST)
 - DEBIAN 9/10
-- Ubuntu 18/20 LTS
+- Ubuntu 18/20/22 LTS
 - CPU MIN 1 CORE
 - RAM 1GB
 
