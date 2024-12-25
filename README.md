@@ -53,11 +53,11 @@
 # Installation
 - via WGET
 ```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/givpn/aio/master/xray)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/tabraklari/aio/refs/heads/master/xray)"
 ```
 - via CURL
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/givpn/aio/master/xray)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/tabraklari/aio/refs/heads/master/xray)"
 ```
 
 # Hubungi saya jika ada yang perlu ditanyakan
