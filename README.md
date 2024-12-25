@@ -9,11 +9,11 @@
 # Cara Install
 - via WGET
 ```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/tabraklari/aio/refs/heads/master/xray)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/tabraklari/Script-Install-VPN/refs/heads/master/xray)"
 ```
 - via CURL
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/tabraklari/aio/refs/heads/master/xray)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/tabraklari/Script-Install-VPN/refs/heads/master/xray)"
 ```
 
 |  SERVICE  |  NETWORK PORT  |
